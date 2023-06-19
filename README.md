@@ -2,6 +2,10 @@
 
 This project is a crypto dashboard built using Vite, Tailwind CSS, CoinGecko API, React-Chartjs-2, React-router-dom, HeroIcons, and Moment. It provides real-time data and visualizations for various cryptocurrencies.
 
+# Demo Link:
+
+https://cryptotrendingupdate.netlify.app/
+
 ## Technologies Used
 
 - [Vite](https://vitejs.dev/guide/#scaffolding): A fast build tooling framework that optimizes the frontend development experience.
